@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testclasses><mytrainingfacades><testclass>com.rcyber.facades.suggestion.DefaultSimpleSuggestionFacadeIntegrationTest</testclass><testclass>com.rcyber.facades.suggestion.impl.DefaultSimpleSuggestionFacadeTest</testclass></mytrainingfacades></testclasses>
